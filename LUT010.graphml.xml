@@ -1,0 +1,714 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="ENSG00000261799">
+  <data key="d0">2.08</data>
+</node>
+<node id="miR-451a">
+  <data key="d0">9.249999999999998</data>
+</node>
+<node id="ENSG00000273035">
+  <data key="d0">2.0</data>
+</node>
+<node id="miR-1-3p">
+  <data key="d0">2.0380952380952384</data>
+</node>
+<node id="ENSG00000226380">
+  <data key="d0">15.000000000000002</data>
+</node>
+<node id="ENSG00000262652">
+  <data key="d0">2.0</data>
+</node>
+<node id="ENSG00000260196">
+  <data key="d0">12.0</data>
+</node>
+<node id="ENSG00000135074">
+  <data key="d0">1.8985507246376812</data>
+</node>
+<node id="miR-1275">
+  <data key="d0">3.0</data>
+</node>
+<node id="ENSG00000163638">
+  <data key="d0">1.9814814814814812</data>
+</node>
+<node id="ENSG00000169252">
+  <data key="d0">2.3303571428571432</data>
+</node>
+<node id="ENSG00000131016">
+  <data key="d0">1.6353383458646613</data>
+</node>
+<node id="ENSG00000275894">
+  <data key="d0">4.666666666666666</data>
+</node>
+<node id="ENSG00000271789">
+  <data key="d0">8.0</data>
+</node>
+<node id="ENSG00000272356">
+  <data key="d0">3.0000000000000004</data>
+</node>
+<node id="miR-486-5p">
+  <data key="d0">5.016355140186915</data>
+</node>
+<node id="ENSG00000226812">
+  <data key="d0">1.5384615384615383</data>
+</node>
+<node id="miR-27a-5p">
+  <data key="d0">4.306306306306306</data>
+</node>
+<node id="ENSG00000229587">
+  <data key="d0">3.0</data>
+</node>
+<node id="ENSG00000273373">
+  <data key="d0">2.1999999999999997</data>
+</node>
+<node id="ENSG00000114019">
+  <data key="d0">1.6884816753926701</data>
+</node>
+<node id="ENSG00000178878">
+  <data key="d0">1.9458128078817736</data>
+</node>
+<node id="ENSG00000081181">
+  <data key="d0">3.538461538461538</data>
+</node>
+<node id="ENSG00000175906">
+  <data key="d0">1.5619469026548671</data>
+</node>
+<node id="ENSG00000165997">
+  <data key="d0">1.7743315508021393</data>
+</node>
+<node id="ENSG00000110881">
+  <data key="d0">2.0</data>
+</node>
+<node id="ENSG00000162772">
+  <data key="d0">26.639830508474574</data>
+</node>
+<node id="ENSG00000119986">
+  <data key="d0">1.7458646616541351</data>
+</node>
+<node id="ENSG00000069399">
+  <data key="d0">3.133676092544987</data>
+</node>
+<node id="ENSG00000168398">
+  <data key="d0">3.6666666666666665</data>
+</node>
+<node id="ENSG00000123095">
+  <data key="d0">1.6250000000000002</data>
+</node>
+<node id="ENSG00000159388">
+  <data key="d0">15.688311688311687</data>
+</node>
+<node id="ENSG00000205177">
+  <data key="d0">3.0</data>
+</node>
+<node id="ENSG00000167173">
+  <data key="d0">3.156862745098039</data>
+</node>
+<node id="ENSG00000198535">
+  <data key="d0">5.166666666666667</data>
+</node>
+<node id="ENSG00000197405">
+  <data key="d0">3.622857142857142</data>
+</node>
+<node id="ENSG00000188112">
+  <data key="d0">1.6666666666666667</data>
+</node>
+<node id="ENSG00000180539">
+  <data key="d0">4.0</data>
+</node>
+<node id="ENSG00000249669">
+  <data key="d0">2.181818181818182</data>
+</node>
+<node id="ENSG00000254166">
+  <data key="d0">2.0</data>
+</node>
+<node id="ENSG00000163492">
+  <data key="d0">2.5</data>
+</node>
+<node id="ENSG00000253276">
+  <data key="d0">2.2273838630806844</data>
+</node>
+<node id="ENSG00000105321">
+  <data key="d0">1.76158940397351</data>
+</node>
+<node id="ENSG00000108700">
+  <data key="d0">22.0</data>
+</node>
+<node id="ENSG00000126353">
+  <data key="d0">2.0</data>
+</node>
+<node id="ENSG00000101938">
+  <data key="d0">1.5</data>
+</node>
+<node id="ENSG00000164442">
+  <data key="d0">1.7248201438848918</data>
+</node>
+<node id="ENSG00000166527">
+  <data key="d0">2.8</data>
+</node>
+<node id="ENSG00000118432">
+  <data key="d0">1.5</data>
+</node>
+<node id="ENSG00000103196">
+  <data key="d0">1.9338842975206616</data>
+</node>
+<node id="ENSG00000006210">
+  <data key="d0">2.65625</data>
+</node>
+<node id="ENSG00000121966">
+  <data key="d0">3.6503496503496513</data>
+</node>
+<node id="ENSG00000003137">
+  <data key="d0">5.333333333333333</data>
+</node>
+<node id="ENSG00000175197">
+  <data key="d0">2.787671232876712</data>
+</node>
+<node id="ENSG00000162616">
+  <data key="d0">1.9230769230769234</data>
+</node>
+<node id="ENSG00000158050">
+  <data key="d0">23.25</data>
+</node>
+<node id="ENSG00000184545">
+  <data key="d0">6.375</data>
+</node>
+<node id="ENSG00000179388">
+  <data key="d0">17.333333333333332</data>
+</node>
+<node id="ENSG00000105656">
+  <data key="d0">1.7920353982300883</data>
+</node>
+<node id="ENSG00000134531">
+  <data key="d0">11.81578947368421</data>
+</node>
+<node id="ENSG00000124882">
+  <data key="d0">13.6</data>
+</node>
+<node id="ENSG00000154319">
+  <data key="d0">5.0</data>
+</node>
+<node id="ENSG00000155034">
+  <data key="d0">1.8758620689655172</data>
+</node>
+<node id="ENSG00000162344">
+  <data key="d0">3.0</data>
+</node>
+<node id="ENSG00000168386">
+  <data key="d0">2.407407407407407</data>
+</node>
+<node id="ENSG00000125740">
+  <data key="d0">62.92805755395683</data>
+</node>
+<node id="ENSG00000175592">
+  <data key="d0">19.571428571428573</data>
+</node>
+<node id="ENSG00000075426">
+  <data key="d0">2.2452830188679247</data>
+</node>
+<node id="ENSG00000054598">
+  <data key="d0">2.9999999999999996</data>
+</node>
+<node id="ENSG00000070404">
+  <data key="d0">1.5473684210526317</data>
+</node>
+<node id="ENSG00000099860">
+  <data key="d0">3.670216420474064</data>
+</node>
+<node id="ENSG00000164949">
+  <data key="d0">3.8529411764705883</data>
+</node>
+<node id="ENSG00000152661">
+  <data key="d0">3.2162162162162167</data>
+</node>
+<node id="ENSG00000187037">
+  <data key="d0">2.5</data>
+</node>
+<node id="ENSG00000169508">
+  <data key="d0">4.638888888888889</data>
+</node>
+<node id="ENSG00000181773">
+  <data key="d0">1.5</data>
+</node>
+<node id="ENSG00000170075">
+  <data key="d0">2.0</data>
+</node>
+<node id="ENSG00000164604">
+  <data key="d0">2.6</data>
+</node>
+<node id="ENSG00000185477">
+  <data key="d0">2.8076923076923075</data>
+</node>
+<node id="ENSG00000103044">
+  <data key="d0">2.4</data>
+</node>
+<node id="ENSG00000188290">
+  <data key="d0">3.7500000000000004</data>
+</node>
+<node id="ENSG00000090339">
+  <data key="d0">4.935622317596566</data>
+</node>
+<node id="ENSG00000006652">
+  <data key="d0">1.8391812865497077</data>
+</node>
+<node id="ENSG00000136689">
+  <data key="d0">2.044378698224852</data>
+</node>
+<node id="ENSG00000137265">
+  <data key="d0">2.8333333333333335</data>
+</node>
+<node id="ENSG00000148841">
+  <data key="d0">1.8780487804878048</data>
+</node>
+<node id="ENSG00000177606">
+  <data key="d0">25.168539325842698</data>
+</node>
+<node id="ENSG00000130522">
+  <data key="d0">3.5886558627264065</data>
+</node>
+<node id="ENSG00000132510">
+  <data key="d0">2.911330049261084</data>
+</node>
+<node id="ENSG00000235750">
+  <data key="d0">1.7249999999999999</data>
+</node>
+<node id="ENSG00000155090">
+  <data key="d0">9.171084337349399</data>
+</node>
+<node id="ENSG00000127528">
+  <data key="d0">8.827586206896552</data>
+</node>
+<node id="ENSG00000136826">
+  <data key="d0">6.866666666666666</data>
+</node>
+<node id="ENSG00000067082">
+  <data key="d0">5.56926952141058</data>
+</node>
+<node id="ENSG00000122367">
+  <data key="d0">8.0</data>
+</node>
+<node id="ENSG00000128342">
+  <data key="d0">4.375</data>
+</node>
+<node id="ENSG00000231721">
+  <data key="d0">1.5714285714285714</data>
+</node>
+<node id="ENSG00000204020">
+  <data key="d0">15.000000000000002</data>
+</node>
+<node id="ENSG00000240032">
+  <data key="d0">3.0</data>
+</node>
+<node id="ENSG00000185022">
+  <data key="d0">6.589285714285714</data>
+</node>
+<node id="ENSG00000139915">
+  <data key="d0">7.0</data>
+</node>
+<node id="ENSG00000254726">
+  <data key="d0">1.5789473684210529</data>
+</node>
+<node id="ENSG00000167470">
+  <data key="d0">5.346153846153847</data>
+</node>
+<node id="ENSG00000178053">
+  <data key="d0">4.2</data>
+</node>
+<node id="ENSG00000123342">
+  <data key="d0">6.383333333333333</data>
+</node>
+<node id="ENSG00000059728">
+  <data key="d0">3.0</data>
+</node>
+<node id="ENSG00000179820">
+  <data key="d0">4.2291021671826625</data>
+</node>
+<node id="ENSG00000145911">
+  <data key="d0">3.6666666666666665</data>
+</node>
+<node id="ENSG00000173559">
+  <data key="d0">2.259615384615384</data>
+</node>
+<node id="ENSG00000111912">
+  <data key="d0">1.5763097949886105</data>
+</node>
+<node id="ENSG00000188211">
+  <data key="d0">2.6</data>
+</node>
+<node id="ENSG00000166579">
+  <data key="d0">1.5290909090909093</data>
+</node>
+<node id="ENSG00000167604">
+  <data key="d0">2.0</data>
+</node>
+<node id="ENSG00000146232">
+  <data key="d0">2.3392857142857144</data>
+</node>
+<node id="ENSG00000140807">
+  <data key="d0">1.6981132075471699</data>
+</node>
+<node id="ENSG00000167207">
+  <data key="d0">2.6666666666666665</data>
+</node>
+<node id="ENSG00000126368">
+  <data key="d0">5.610655737704919</data>
+</node>
+<node id="ENSG00000123358">
+  <data key="d0">11.116071428571427</data>
+</node>
+<node id="ENSG00000153234">
+  <data key="d0">2.3236514522821574</data>
+</node>
+<node id="ENSG00000119508">
+  <data key="d0">5.518518518518518</data>
+</node>
+<node id="ENSG00000157168">
+  <data key="d0">2.26</data>
+</node>
+<node id="ENSG00000163545">
+  <data key="d0">5.6875</data>
+</node>
+<node id="ENSG00000197461">
+  <data key="d0">1.5185185185185184</data>
+</node>
+<node id="ENSG00000067992">
+  <data key="d0">1.5108910891089107</data>
+</node>
+<node id="ENSG00000154553">
+  <data key="d0">1.8679245283018866</data>
+</node>
+<node id="ENSG00000132326">
+  <data key="d0">2.1789473684210527</data>
+</node>
+<node id="ENSG00000173868">
+  <data key="d0">9.5</data>
+</node>
+<node id="ENSG00000122861">
+  <data key="d0">3.285714285714286</data>
+</node>
+<node id="ENSG00000115956">
+  <data key="d0">2.9393939393939394</data>
+</node>
+<node id="ENSG00000173846">
+  <data key="d0">5.866666666666666</data>
+</node>
+<node id="ENSG00000146278">
+  <data key="d0">2.266347687400319</data>
+</node>
+<node id="ENSG00000087074">
+  <data key="d0">7.690647482014388</data>
+</node>
+<node id="ENSG00000152784">
+  <data key="d0">3.5</data>
+</node>
+<node id="ENSG00000180525">
+  <data key="d0">1.833333333333333</data>
+</node>
+<node id="ENSG00000168229">
+  <data key="d0">4.0</data>
+</node>
+<node id="ENSG00000108551">
+  <data key="d0">12.872832369942195</data>
+</node>
+<node id="ENSG00000054967">
+  <data key="d0">5.166666666666667</data>
+</node>
+<node id="ENSG00000140519">
+  <data key="d0">5.0</data>
+</node>
+<node id="ENSG00000116514">
+  <data key="d0">1.7</data>
+</node>
+<node id="ENSG00000166592">
+  <data key="d0">1.9230769230769231</data>
+</node>
+<node id="ENSG00000064932">
+  <data key="d0">1.570694087403599</data>
+</node>
+<node id="ENSG00000124145">
+  <data key="d0">2.7074678536102867</data>
+</node>
+<node id="ENSG00000167680">
+  <data key="d0">2.6956521739130435</data>
+</node>
+<node id="ENSG00000170542">
+  <data key="d0">3.245614035087719</data>
+</node>
+<node id="ENSG00000106366">
+  <data key="d0">8.769452449567725</data>
+</node>
+<node id="ENSG00000107338">
+  <data key="d0">1.6540284360189577</data>
+</node>
+<node id="ENSG00000142178">
+  <data key="d0">1.8159999999999998</data>
+</node>
+<node id="ENSG00000148339">
+  <data key="d0">2.222222222222222</data>
+</node>
+<node id="ENSG00000059804">
+  <data key="d0">4.233576642335766</data>
+</node>
+<node id="ENSG00000232956">
+  <data key="d0">1.6515151515151516</data>
+</node>
+<node id="ENSG00000171056">
+  <data key="d0">2.9999999999999996</data>
+</node>
+<node id="ENSG00000112658">
+  <data key="d0">2.076219512195122</data>
+</node>
+<node id="ENSG00000159167">
+  <data key="d0">2.8</data>
+</node>
+<node id="ENSG00000113739">
+  <data key="d0">1.6666666666666667</data>
+</node>
+<node id="ENSG00000166900">
+  <data key="d0">1.9007633587786257</data>
+</node>
+<node id="ENSG00000119699">
+  <data key="d0">1.7608695652173914</data>
+</node>
+<node id="ENSG00000177426">
+  <data key="d0">2.0876132930513593</data>
+</node>
+<node id="ENSG00000178726">
+  <data key="d0">2.6086956521739135</data>
+</node>
+<node id="ENSG00000137801">
+  <data key="d0">6.017057569296375</data>
+</node>
+<node id="ENSG00000140332">
+  <data key="d0">3.174603174603175</data>
+</node>
+<node id="ENSG00000118503">
+  <data key="d0">4.805</data>
+</node>
+<node id="ENSG00000145779">
+  <data key="d0">1.9375</data>
+</node>
+<node id="ENSG00000006327">
+  <data key="d0">5.474358974358975</data>
+</node>
+<node id="ENSG00000028137">
+  <data key="d0">1.9078947368421055</data>
+</node>
+<node id="ENSG00000112195">
+  <data key="d0">7.666666666666667</data>
+</node>
+<node id="ENSG00000121060">
+  <data key="d0">2.4744525547445257</data>
+</node>
+<node id="ENSG00000196428">
+  <data key="d0">2.0905349794238686</data>
+</node>
+<node id="ENSG00000062716">
+  <data key="d0">1.7802631578947368</data>
+</node>
+<node id="ENSG00000093134">
+  <data key="d0">1.6875</data>
+</node>
+<node id="ENSG00000139722">
+  <data key="d0">2.330935251798561</data>
+</node>
+<node id="ENSG00000168334">
+  <data key="d0">3.0</data>
+</node>
+<node id="ENSG00000169155">
+  <data key="d0">1.9627329192546583</data>
+</node>
+<node id="ENSG00000128016">
+  <data key="d0">11.41759053954176</data>
+</node>
+<node id="ENSG00000185650">
+  <data key="d0">2.7193891464412325</data>
+</node>
+<node id="ENSG00000127903">
+  <data key="d0">2.6666666666666665</data>
+</node>
+<node id="ENSG00000257446">
+  <data key="d0">4.0</data>
+</node>
+<node id="ENSG00000132003">
+  <data key="d0">1.7619047619047616</data>
+</node>
+<edge source="ENSG00000261799" target="miR-451a"/>
+<edge source="miR-451a" target="ENSG00000271789"/>
+<edge source="ENSG00000273035" target="miR-1-3p"/>
+<edge source="miR-1-3p" target="ENSG00000226380"/>
+<edge source="miR-1-3p" target="ENSG00000262652"/>
+<edge source="miR-1-3p" target="ENSG00000260196"/>
+<edge source="miR-1-3p" target="ENSG00000131016"/>
+<edge source="miR-1-3p" target="ENSG00000275894"/>
+<edge source="miR-1-3p" target="ENSG00000229587"/>
+<edge source="miR-1-3p" target="ENSG00000114019"/>
+<edge source="miR-1-3p" target="ENSG00000081181"/>
+<edge source="miR-1-3p" target="ENSG00000254166"/>
+<edge source="miR-1-3p" target="ENSG00000164442"/>
+<edge source="miR-1-3p" target="ENSG00000103196"/>
+<edge source="miR-1-3p" target="ENSG00000121966"/>
+<edge source="miR-1-3p" target="ENSG00000125740"/>
+<edge source="miR-1-3p" target="ENSG00000152661"/>
+<edge source="miR-1-3p" target="ENSG00000164604"/>
+<edge source="miR-1-3p" target="ENSG00000185477"/>
+<edge source="miR-1-3p" target="ENSG00000130522"/>
+<edge source="miR-1-3p" target="ENSG00000235750"/>
+<edge source="miR-1-3p" target="ENSG00000136826"/>
+<edge source="miR-1-3p" target="ENSG00000231721"/>
+<edge source="miR-1-3p" target="ENSG00000240032"/>
+<edge source="miR-1-3p" target="ENSG00000059728"/>
+<edge source="miR-1-3p" target="ENSG00000153234"/>
+<edge source="miR-1-3p" target="ENSG00000119508"/>
+<edge source="miR-1-3p" target="ENSG00000197461"/>
+<edge source="miR-1-3p" target="ENSG00000148339"/>
+<edge source="miR-1-3p" target="ENSG00000232956"/>
+<edge source="miR-1-3p" target="ENSG00000113739"/>
+<edge source="miR-1-3p" target="ENSG00000177426"/>
+<edge source="miR-1-3p" target="ENSG00000137801"/>
+<edge source="miR-1-3p" target="ENSG00000062716"/>
+<edge source="miR-1-3p" target="ENSG00000185650"/>
+<edge source="ENSG00000135074" target="miR-1275"/>
+<edge source="miR-1275" target="ENSG00000163638"/>
+<edge source="miR-1275" target="ENSG00000169252"/>
+<edge source="miR-1275" target="ENSG00000114019"/>
+<edge source="miR-1275" target="ENSG00000178878"/>
+<edge source="miR-1275" target="ENSG00000175906"/>
+<edge source="miR-1275" target="ENSG00000165997"/>
+<edge source="miR-1275" target="ENSG00000162772"/>
+<edge source="miR-1275" target="ENSG00000119986"/>
+<edge source="miR-1275" target="ENSG00000069399"/>
+<edge source="miR-1275" target="ENSG00000168398"/>
+<edge source="miR-1275" target="ENSG00000123095"/>
+<edge source="miR-1275" target="ENSG00000159388"/>
+<edge source="miR-1275" target="ENSG00000205177"/>
+<edge source="miR-1275" target="ENSG00000167173"/>
+<edge source="miR-1275" target="ENSG00000198535"/>
+<edge source="miR-1275" target="ENSG00000197405"/>
+<edge source="miR-1275" target="ENSG00000188112"/>
+<edge source="miR-1275" target="ENSG00000163492"/>
+<edge source="miR-1275" target="ENSG00000253276"/>
+<edge source="miR-1275" target="ENSG00000105321"/>
+<edge source="miR-1275" target="ENSG00000108700"/>
+<edge source="miR-1275" target="ENSG00000126353"/>
+<edge source="miR-1275" target="ENSG00000164442"/>
+<edge source="miR-1275" target="ENSG00000166527"/>
+<edge source="miR-1275" target="ENSG00000103196"/>
+<edge source="miR-1275" target="ENSG00000006210"/>
+<edge source="miR-1275" target="ENSG00000175197"/>
+<edge source="miR-1275" target="ENSG00000162616"/>
+<edge source="miR-1275" target="ENSG00000158050"/>
+<edge source="miR-1275" target="ENSG00000184545"/>
+<edge source="miR-1275" target="ENSG00000179388"/>
+<edge source="miR-1275" target="ENSG00000105656"/>
+<edge source="miR-1275" target="ENSG00000134531"/>
+<edge source="miR-1275" target="ENSG00000124882"/>
+<edge source="miR-1275" target="ENSG00000154319"/>
+<edge source="miR-1275" target="ENSG00000162344"/>
+<edge source="miR-1275" target="ENSG00000168386"/>
+<edge source="miR-1275" target="ENSG00000125740"/>
+<edge source="miR-1275" target="ENSG00000175592"/>
+<edge source="miR-1275" target="ENSG00000075426"/>
+<edge source="miR-1275" target="ENSG00000054598"/>
+<edge source="miR-1275" target="ENSG00000070404"/>
+<edge source="miR-1275" target="ENSG00000099860"/>
+<edge source="miR-1275" target="ENSG00000164949"/>
+<edge source="miR-1275" target="ENSG00000187037"/>
+<edge source="miR-1275" target="ENSG00000169508"/>
+<edge source="miR-1275" target="ENSG00000181773"/>
+<edge source="miR-1275" target="ENSG00000170075"/>
+<edge source="miR-1275" target="ENSG00000185477"/>
+<edge source="miR-1275" target="ENSG00000103044"/>
+<edge source="miR-1275" target="ENSG00000188290"/>
+<edge source="miR-1275" target="ENSG00000090339"/>
+<edge source="miR-1275" target="ENSG00000006652"/>
+<edge source="miR-1275" target="ENSG00000136689"/>
+<edge source="miR-1275" target="ENSG00000137265"/>
+<edge source="miR-1275" target="ENSG00000148841"/>
+<edge source="miR-1275" target="ENSG00000177606"/>
+<edge source="miR-1275" target="ENSG00000132510"/>
+<edge source="miR-1275" target="ENSG00000155090"/>
+<edge source="miR-1275" target="ENSG00000127528"/>
+<edge source="miR-1275" target="ENSG00000067082"/>
+<edge source="miR-1275" target="ENSG00000128342"/>
+<edge source="miR-1275" target="ENSG00000204020"/>
+<edge source="miR-1275" target="ENSG00000185022"/>
+<edge source="miR-1275" target="ENSG00000167470"/>
+<edge source="miR-1275" target="ENSG00000178053"/>
+<edge source="miR-1275" target="ENSG00000123342"/>
+<edge source="miR-1275" target="ENSG00000059728"/>
+<edge source="miR-1275" target="ENSG00000179820"/>
+<edge source="miR-1275" target="ENSG00000145911"/>
+<edge source="miR-1275" target="ENSG00000173559"/>
+<edge source="miR-1275" target="ENSG00000111912"/>
+<edge source="miR-1275" target="ENSG00000188211"/>
+<edge source="miR-1275" target="ENSG00000166579"/>
+<edge source="miR-1275" target="ENSG00000167604"/>
+<edge source="miR-1275" target="ENSG00000146232"/>
+<edge source="miR-1275" target="ENSG00000167207"/>
+<edge source="miR-1275" target="ENSG00000126368"/>
+<edge source="miR-1275" target="ENSG00000123358"/>
+<edge source="miR-1275" target="ENSG00000157168"/>
+<edge source="miR-1275" target="ENSG00000163545"/>
+<edge source="miR-1275" target="ENSG00000154553"/>
+<edge source="miR-1275" target="ENSG00000132326"/>
+<edge source="miR-1275" target="ENSG00000173868"/>
+<edge source="miR-1275" target="ENSG00000122861"/>
+<edge source="miR-1275" target="ENSG00000115956"/>
+<edge source="miR-1275" target="ENSG00000173846"/>
+<edge source="miR-1275" target="ENSG00000146278"/>
+<edge source="miR-1275" target="ENSG00000087074"/>
+<edge source="miR-1275" target="ENSG00000152784"/>
+<edge source="miR-1275" target="ENSG00000180525"/>
+<edge source="miR-1275" target="ENSG00000108551"/>
+<edge source="miR-1275" target="ENSG00000054967"/>
+<edge source="miR-1275" target="ENSG00000140519"/>
+<edge source="miR-1275" target="ENSG00000116514"/>
+<edge source="miR-1275" target="ENSG00000166592"/>
+<edge source="miR-1275" target="ENSG00000064932"/>
+<edge source="miR-1275" target="ENSG00000124145"/>
+<edge source="miR-1275" target="ENSG00000167680"/>
+<edge source="miR-1275" target="ENSG00000170542"/>
+<edge source="miR-1275" target="ENSG00000106366"/>
+<edge source="miR-1275" target="ENSG00000107338"/>
+<edge source="miR-1275" target="ENSG00000142178"/>
+<edge source="miR-1275" target="ENSG00000059804"/>
+<edge source="miR-1275" target="ENSG00000171056"/>
+<edge source="miR-1275" target="ENSG00000112658"/>
+<edge source="miR-1275" target="ENSG00000159167"/>
+<edge source="miR-1275" target="ENSG00000166900"/>
+<edge source="miR-1275" target="ENSG00000119699"/>
+<edge source="miR-1275" target="ENSG00000178726"/>
+<edge source="miR-1275" target="ENSG00000140332"/>
+<edge source="miR-1275" target="ENSG00000118503"/>
+<edge source="miR-1275" target="ENSG00000145779"/>
+<edge source="miR-1275" target="ENSG00000006327"/>
+<edge source="miR-1275" target="ENSG00000028137"/>
+<edge source="miR-1275" target="ENSG00000112195"/>
+<edge source="miR-1275" target="ENSG00000196428"/>
+<edge source="miR-1275" target="ENSG00000062716"/>
+<edge source="miR-1275" target="ENSG00000093134"/>
+<edge source="miR-1275" target="ENSG00000139722"/>
+<edge source="miR-1275" target="ENSG00000168334"/>
+<edge source="miR-1275" target="ENSG00000169155"/>
+<edge source="miR-1275" target="ENSG00000128016"/>
+<edge source="miR-1275" target="ENSG00000185650"/>
+<edge source="miR-1275" target="ENSG00000257446"/>
+<edge source="miR-1275" target="ENSG00000132003"/>
+<edge source="ENSG00000272356" target="miR-486-5p"/>
+<edge source="miR-486-5p" target="ENSG00000273373"/>
+<edge source="ENSG00000226812" target="miR-27a-5p"/>
+<edge source="miR-27a-5p" target="ENSG00000110881"/>
+<edge source="miR-27a-5p" target="ENSG00000180539"/>
+<edge source="miR-27a-5p" target="ENSG00000249669"/>
+<edge source="miR-27a-5p" target="ENSG00000101938"/>
+<edge source="miR-27a-5p" target="ENSG00000118432"/>
+<edge source="miR-27a-5p" target="ENSG00000003137"/>
+<edge source="miR-27a-5p" target="ENSG00000155034"/>
+<edge source="miR-27a-5p" target="ENSG00000122367"/>
+<edge source="miR-27a-5p" target="ENSG00000139915"/>
+<edge source="miR-27a-5p" target="ENSG00000254726"/>
+<edge source="miR-27a-5p" target="ENSG00000140807"/>
+<edge source="miR-27a-5p" target="ENSG00000067992"/>
+<edge source="miR-27a-5p" target="ENSG00000168229"/>
+<edge source="miR-27a-5p" target="ENSG00000121060"/>
+<edge source="miR-27a-5p" target="ENSG00000127903"/>
+</graph></graphml>
